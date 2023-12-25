@@ -1,7 +1,8 @@
-package ru.netology.diplom
+package ru.netology.diplom.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import ru.netology.diplom.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

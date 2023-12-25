@@ -1,3 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Diplom</string>
+    <string name="app_name">NeWork</string>
+    <string name="menu">Menu</string>
+    <string name="def_desc">Image</string>
+    <string name="audio">Audio</string>
+    <string name="posts">Posts</string>
+    <string name="events">Events</string>
+    <string name="users">Users</string>
+    <string name="login">Login</string>
+    <string name="retry">Retry</string>
+    <string name="empty_list">Empty list</string>
+    <string name="add_post">Add post</string>
 </resources>
