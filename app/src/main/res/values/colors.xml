@@ -13,4 +13,6 @@
     <color name="black_small_button">#FF000000</color>
     <color name="lightBlue">#00FFFF</color>
     <color name="grayBackground">#FEF7FF</color>
+    <color name="text_color">#000000</color>
+
 </resources>

@@ -23,7 +23,7 @@
             android:paddingStart="16dp"
             android:paddingTop="8dp"
             android:paddingBottom="8dp"
-            android:textColor="#1D1B20"
+            android:textColor="@color/text_color"
             android:textSize="22sp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
